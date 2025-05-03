@@ -1,3 +1,8 @@
+<!--
+  🌈 PROFILE README FOR Dhruvil-Rangani
+  Rename this to README.md in your Dhruvil-Rangani/Dhruvil-Rangani repo
+-->
+
 <p align="center">
   <img src="https://media.giphy.com/media/26tknCqiJrBQG6bxC/giphy.gif" width="200" alt="Coding Animation"/>
 </p>
@@ -58,29 +63,25 @@
     <tr>
       <td align="center" width="160">
         <a href="https://github.com/Dhruvil-Rangani/Ai-Powered-Email-APP">
-          <img src="https://raw.githubusercontent.com/Dhruvil-Rangani/Ai-Powered-Email-APP/main/docs/cover.png" alt="EmailApp" width="120"><br/>
-          <b>EmailApp</b>
+          <b>📧 EmailApp</b>
         </a><br/>
         Node.js · Express · IMAP/SMTP · Prisma
       </td>
       <td align="center" width="160">
         <a href="https://github.com/Dhruvil-Rangani/dhruvil-portfolio">
-          <img src="https://raw.githubusercontent.com/Dhruvil-Rangani/dhruvil-portfolio/main/public/preview.png" alt="Portfolio" width="120"><br/>
-          <b>Portfolio</b>
+          <b>🎨 Portfolio</b>
         </a><br/>
         Next.js · Tailwind CSS · Framer Motion
       </td>
       <td align="center" width="160">
         <a href="https://github.com/Dhruvil-Rangani/Paytm-Web-App">
-          <img src="https://raw.githubusercontent.com/Dhruvil-Rangani/Paytm-Web-App/main/docs/screenshot.png" alt="Fintech App" width="120"><br/>
-          <b>Fintech App</b>
+          <b>💰 Fintech App</b>
         </a><br/>
         MERN · MongoDB · CI/CD
       </td>
       <td align="center" width="160">
         <a href="https://github.com/Dhruvil-Rangani/vital_plus">
-          <img src="https://raw.githubusercontent.com/Dhruvil-Rangani/vital_plus/main/screenshots/1.png" alt="Healthcare AI" width="120"><br/>
-          <b>Healthcare AI</b>
+          <b>🏥 Healthcare AI</b>
         </a><br/>
         React · Node.js · Brain.js
       </td>
