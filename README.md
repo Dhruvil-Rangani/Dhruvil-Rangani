@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tknCqiJrBQG6bxC/giphy.gif" width="200" alt="Coding Animation"/>
+  <img src="[https://media.giphy.com/media/26tknCqiJrBQG6bxC/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Ftrump-win-gifs&psig=AOvVaw02QF105nr6PSyGAtTaNehD&ust=1746398103395000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDzwYeuiI0DFQAAAAAdAAAAABAP)" width="200" alt="Coding Animation"/>
 </p>
 
 <h1 align="center">
