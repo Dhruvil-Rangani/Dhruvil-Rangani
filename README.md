@@ -52,15 +52,13 @@
 <p align="center">
   <!-- Overall GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvilrangani&show_icons=true&theme=radical" alt="GitHub Stats" />
-
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvilrangani&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=dhruvilrangani&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
-
+  <!-- Contribution Graph (alternative if herokuapp is down) -->
+  <img src="https://ghchart.rshah.org/dhruvilrangani" alt="Contribution Graph" />
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvilrangani&theme=react-dark&hide_border=true" alt="Streak Stats" />
 </p>
