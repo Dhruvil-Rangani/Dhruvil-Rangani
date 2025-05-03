@@ -10,21 +10,22 @@
 
 ### 🛠️ Tech & Tools
 
-<p>
-  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-  <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
-  <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
-  <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
-  <img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" />
-  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
-  <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
-  <img align="left" alt="Prisma" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/prisma/prisma.png" />
-  <img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind-css/tailwind-css.png" />
-  <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
-  <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/amazon-web-services/amazon-web-services.png" />
-  <img align="left" alt="GitHub Actions" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github-actions/github-actions.png" />
+<p align="center">
+  <img align="left" alt="JavaScript"        src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="26px" />
+  <img align="left" alt="TypeScript"        src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="26px" />
+  <img align="left" alt="Node.js"           src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="26px" />
+  <img align="left" alt="Express.js"        src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" height="26px" />
+  <img align="left" alt="Next.js"           src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="26px" />
+  <img align="left" alt="React"             src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="26px" />
+  <img align="left" alt="PostgreSQL"        src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="26px" />
+  <img align="left" alt="Prisma"            src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="26px" />
+  <img align="left" alt="Tailwind CSS"      src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white" height="26px" />
+  <img align="left" alt="Docker"            src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="26px" />
+  <img align="left" alt="AWS"               src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" height="26px" />
+  <img align="left" alt="GitHub Actions"    src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="26px" />
 </p>
 <br clear="both"/>
+
 
 ---
 
@@ -47,25 +48,25 @@
 
 ---
 
-### 📊 GitHub Stats & Cool Visuals
+### 📊 GitHub Stats
 
 <p align="center">
   <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvilrangani&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvil-Rangani&show_icons=true&theme=radical" alt="GitHub Stats" />
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvilrangani&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvil-Rangani&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
   <!-- Contribution Graph (alternative if herokuapp is down) -->
-  <img src="https://ghchart.rshah.org/dhruvilrangani" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/Dhruvil-Rangani" alt="Contribution Graph" />
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvilrangani&theme=react-dark&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvil-Rangani&theme=react-dark&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruvilrangani&theme=radical&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhruvil-Rangani&theme=radical&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
