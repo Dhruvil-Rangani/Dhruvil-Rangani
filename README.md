@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Dhruvil--Rangani-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:tech@dhruvilrangani.com">
-    <img src="https://img.shields.io/badge/Email-dhruvil@dhruvilrangani.com-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-tech@dhruvilrangani.com-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
 
