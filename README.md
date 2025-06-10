@@ -12,10 +12,10 @@
   <a href="https://github.com/Dhruvil-Rangani" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Dhruvil--Rangani-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/dhruvilrangani" target="_blank">
+  <a href="https://linkedin.com/in/dhruvilrangani007" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dhruvil--Rangani-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:dhruvil@dhruvilrangani.com">
+  <a href="mailto:tech@dhruvilrangani.com">
     <img src="https://img.shields.io/badge/Email-dhruvil@dhruvilrangani.com-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
