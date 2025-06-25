@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/dhruvilrangani007" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Dhruvil-Rangani" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:tech@dhruvilrangani.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Dhruvil-Rangani/dhruvil-portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://dhruvilrangani.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
@@ -69,6 +69,6 @@ I am a software engineer specializing in backend and full-stack development. My 
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvil-Rangani&theme=dark" alt="Streak"/>
   <br/><br/>
-  <img src="https://ghchart.rshah.org/Dhruvil-Rangani?color=9be9a8" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/Dhruvil-Rangani?color=github" alt="Activity Graph" />
 </p>
 </details>
