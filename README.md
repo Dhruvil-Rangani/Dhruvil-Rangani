@@ -69,6 +69,6 @@ I am a software engineer specializing in backend and full-stack development. My 
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvil-Rangani&theme=dark" alt="Streak"/>
   <br/><br/>
-  <img src="https://ghchart.rshah.org/Dhruvil-Rangani?color=github" alt="Activity Graph" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Dhruvil-Rangani&theme=github-dark" alt="3D Contribution Graph" />
 </p>
 </details>
